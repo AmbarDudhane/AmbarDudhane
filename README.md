@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+I am Ambar Dudhane and I am a graduate student at University of Texas at Arlington majoring in computer science. Apart from academic, I also have an experience of 3 years in the software development.
+
 <!--
 **AmbarDudhane/AmbarDudhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 
 ## &#x1f4c8; GitHub Stats
 
