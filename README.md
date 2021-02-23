@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardudhane)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbarDudhane&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 ![Ambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambardudhane&show_icons=true&theme=radical)
 
 
