@@ -43,3 +43,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambardudhane&show_icons=true&theme=radical" alt="Ambar's GitHub stats" />
 <a/>
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F743868063433238746%2F&psig=AOvVaw3DPWEC4eBfDGrj58K9U1l5&ust=1614136997431000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiHvIeH_-4CFQAAAAAdAAAAABAD
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.instagram.com/ambardudhane/
+[2]: https://www.linkedin.com/in/ambardudhane/
