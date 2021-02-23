@@ -1,4 +1,3 @@
-[![Header](https://github.com/AmbarDudhane/AmbarDudhane/blob/main/icons/header_img.jpg "Header")](https://ambar-portfolio.herokuapp.com/)
 
 
 ### Hi there 👋
