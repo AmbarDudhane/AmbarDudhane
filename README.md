@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambardudhane&show_icons=true&theme=radical" alt="Ambar's GitHub stats" />
 <a/>
 
-You can find me on on [![LinkedIn][3.2]][3].
+You can find me on on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
